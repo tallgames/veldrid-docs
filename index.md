@@ -6,6 +6,8 @@ Veldrid is open source software, available under the permissive [MIT License](ht
 
 [__Introduction to Veldrid__](xref:intro)
 
+[__Veldrid Installation__](xref:installation)
+
 [__Getting Started Tutorial__](xref:getting-started-intro)
 
 [__API Documentation__](xref:Veldrid)
